@@ -1,0 +1,11 @@
+{
+  "name": "jspm-link-a",
+  "version": "0.0.1",
+  "jspm": {
+    "registry": "kb",
+    "dependencies": {
+      "klausbayrhammer/jspm-link-b": "github:klausbayrhammer/jspm-link-b@master",
+      "klausbayrhammer/jspm-link-d": "github:klausbayrhammer/jspm-link-d@master"
+    }
+  }
+}
